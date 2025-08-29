@@ -12,7 +12,6 @@
 ## 🛠 Tecnologias e Ferramentas
 - 🗄 **Banco de Dados:** MySQL, PostgreSQL, PlanetScale  
 - 💻 **Linguagens:** Java, SQL, Python (básico)  
-- 🔗 **APIs & Backend:** Node.js, Express  
 - ☁ **Cloud:** Azure (AZ-900 em andamento)  
 - ⚙ **Versionamento:** Git & GitHub  
 
