@@ -20,5 +20,5 @@
 
 
 📍 São Paulo - SP  
-📫 Conecte-se comigo no [LinkedIn](https://linkedin.com/in/seuusuario)  
+📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/lucas-bittencourt-moura-6b5b3b1b6/)  
 
