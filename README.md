@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**LucasBMoura/LucasBMoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, seja bem-vindo(a) ao meu perfil!
 
-Here are some ideas to get you started:
+## 💻 Sobre mim
+- 🎓 Estudante de **Sistemas de Informação**
+- 🚀 Interesse em **Engenharia de Software** ou **Desenvolvimento**
+- 📊 Experiência com **SQL** aplicado a desenvolvimento de sistemas
+- 🌱 Atualmente aprendendo **Java**, **APIs** e explorando **Cloud (Azure)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tecnologias e Ferramentas
+- 🗄 **Banco de Dados:** MySQL, PostgreSQL, PlanetScale  
+- 💻 **Linguagens:** Java, SQL, Python (básico)  
+- 🔗 **APIs & Backend:** Node.js, Express  
+- ☁ **Cloud:** Azure (AZ-900 em andamento)  
+- ⚙ **Versionamento:** Git & GitHub  
+
+---
+
+
+📍 São Paulo - SP  
+📫 Conecte-se comigo no [LinkedIn](https://linkedin.com/in/seuusuario)  
+
